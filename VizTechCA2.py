@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 
-# Setting up the title page 
+# Setting up the title page & page to wide fromat to allow the abilty to placce charts to pan the page
 
 
 st.set_page_config(
