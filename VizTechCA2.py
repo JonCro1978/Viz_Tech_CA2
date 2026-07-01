@@ -16,7 +16,7 @@ st.set_page_config(
 
 DATE_COLUMN = "Date"
 
-DATA_PATH = r"C:\Users\unake\OneDrive\Desktop\JCCCTstuff\Fremont_Bridge_Bicycle_Counter.csv"
+DATA_PATH = "Fremont_Bridge_Bicycle_Counter.csv"
 
 TOTAL_COL = "Fremont Bridge Sidewalks, south of N 34th St Total"
 WEST_COL = "Fremont Bridge Sidewalks, south of N 34th St Cyclist West Sidewalk"
